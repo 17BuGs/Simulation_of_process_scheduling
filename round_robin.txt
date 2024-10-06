@@ -1,0 +1,1738 @@
+1:
+running:
+PCB1 - Priority: 3 - CPU Time: 1 / All Time: 10 - State: RUNNING - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 11 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+2:
+running:
+PCB1 - Priority: 3 - CPU Time: 2 / All Time: 10 - State: RUNNING - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 7 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 10 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+3:
+running:
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 9 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+4:
+running:
+PCB2 - Priority: 2 - CPU Time: 1 / All Time: 8 - State: RUNNING - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB3 - Priority: 4 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+5:
+running:
+PCB2 - Priority: 2 - CPU Time: 2 / All Time: 8 - State: RUNNING - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB3 - Priority: 4 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 7 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+6:
+running:
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB3 - Priority: 4 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+7:
+running:
+PCB3 - Priority: 4 - CPU Time: 1 / All Time: 5 - State: RUNNING - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+8:
+running:
+PCB3 - Priority: 4 - CPU Time: 2 / All Time: 5 - State: RUNNING - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+9:
+running:
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB4 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+10:
+running:
+PCB4 - Priority: 1 - CPU Time: 1 / All Time: 3 - State: RUNNING - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+11:
+running:
+PCB4 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: RUNNING - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+
+12:
+running:
+PCB4 - Priority: 1 - CPU Time: 3 / All Time: 3 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 3 / Time Slice(RR): 3
+
+ready queue:
+PCB5 - Priority: 6 - CPU Time: 0 / All Time: 6 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+Empty
+
+
+13:
+running:
+PCB5 - Priority: 6 - CPU Time: 1 / All Time: 6 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+Empty
+
+
+14:
+running:
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 0 / All Time: 14 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+15:
+running:
+PCB6 - Priority: 2 - CPU Time: 1 / All Time: 14 - State: RUNNING - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+16:
+running:
+PCB6 - Priority: 2 - CPU Time: 2 / All Time: 14 - State: RUNNING - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+
+blocked queue:
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+17:
+running:
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB7 - Priority: 1 - CPU Time: 0 / All Time: 1 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+18:
+running:
+PCB7 - Priority: 1 - CPU Time: 1 / All Time: 1 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB8 - Priority: 5 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+19:
+running:
+PCB8 - Priority: 5 - CPU Time: 1 / All Time: 3 - State: RUNNING - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+20:
+running:
+PCB8 - Priority: 5 - CPU Time: 2 / All Time: 3 - State: RUNNING - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+21:
+running:
+PCB8 - Priority: 5 - CPU Time: 3 / All Time: 3 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 3 / Time Slice(RR): 3
+
+ready queue:
+PCB9 - Priority: 8 - CPU Time: 0 / All Time: 7 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+22:
+running:
+PCB9 - Priority: 8 - CPU Time: 1 / All Time: 7 - State: RUNNING - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+23:
+running:
+PCB9 - Priority: 8 - CPU Time: 2 / All Time: 7 - State: RUNNING - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+24:
+running:
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB1 - Priority: 3 - CPU Time: 3 / All Time: 10 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+25:
+running:
+PCB1 - Priority: 3 - CPU Time: 4 / All Time: 10 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+26:
+running:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB13 - Priority: 6 - CPU Time: 0 / All Time: 5 - State: READY - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+27:
+running:
+PCB13 - Priority: 6 - CPU Time: 1 / All Time: 5 - State: RUNNING - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 7 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+28:
+running:
+PCB13 - Priority: 6 - CPU Time: 2 / All Time: 5 - State: RUNNING - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+29:
+running:
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB11 - Priority: 3 - CPU Time: 0 / All Time: 8 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+30:
+running:
+PCB11 - Priority: 3 - CPU Time: 1 / All Time: 8 - State: RUNNING - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+31:
+running:
+PCB11 - Priority: 3 - CPU Time: 2 / All Time: 8 - State: RUNNING - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+32:
+running:
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+33:
+running:
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 0 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+34:
+running:
+PCB14 - Priority: 7 - CPU Time: 1 / All Time: 12 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+35:
+running:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 10 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB3 - Priority: 4 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 10 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+36:
+running:
+PCB3 - Priority: 4 - CPU Time: 4 / All Time: 5 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 9 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+37:
+running:
+PCB3 - Priority: 4 - CPU Time: 5 / All Time: 5 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB10 - Priority: 1 - CPU Time: 0 / All Time: 3 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+38:
+running:
+PCB10 - Priority: 1 - CPU Time: 1 / All Time: 3 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 7 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+39:
+running:
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB12 - Priority: 3 - CPU Time: 0 / All Time: 4 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 99999
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+40:
+running:
+PCB12 - Priority: 3 - CPU Time: 1 / All Time: 4 - State: RUNNING - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 7 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+41:
+running:
+PCB12 - Priority: 3 - CPU Time: 2 / All Time: 4 - State: RUNNING - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+42:
+running:
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 3 / All Time: 14 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+43:
+running:
+PCB6 - Priority: 2 - CPU Time: 4 / All Time: 14 - State: RUNNING - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+44:
+running:
+PCB6 - Priority: 2 - CPU Time: 5 / All Time: 14 - State: RUNNING - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+45:
+running:
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB5 - Priority: 6 - CPU Time: 2 / All Time: 6 - State: READY - Running to Blocked Time: 10 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+46:
+running:
+PCB5 - Priority: 6 - CPU Time: 3 / All Time: 6 - State: RUNNING - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+47:
+running:
+PCB5 - Priority: 6 - CPU Time: 4 / All Time: 6 - State: RUNNING - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+48:
+running:
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB9 - Priority: 8 - CPU Time: 3 / All Time: 7 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+49:
+running:
+PCB9 - Priority: 8 - CPU Time: 4 / All Time: 7 - State: RUNNING - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+50:
+running:
+PCB9 - Priority: 8 - CPU Time: 5 / All Time: 7 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+51:
+running:
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB13 - Priority: 6 - CPU Time: 3 / All Time: 5 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+52:
+running:
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 9 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB11 - Priority: 3 - CPU Time: 3 / All Time: 8 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 9 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+53:
+running:
+PCB11 - Priority: 3 - CPU Time: 4 / All Time: 8 - State: RUNNING - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+54:
+running:
+PCB11 - Priority: 3 - CPU Time: 5 / All Time: 8 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 7 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+55:
+running:
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 9 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB1 - Priority: 3 - CPU Time: 5 / All Time: 10 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 9 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+56:
+running:
+PCB1 - Priority: 3 - CPU Time: 6 / All Time: 10 - State: RUNNING - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+57:
+running:
+PCB1 - Priority: 3 - CPU Time: 7 / All Time: 10 - State: RUNNING - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 7 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+58:
+running:
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 4 / All Time: 8 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+59:
+running:
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB12 - Priority: 3 - CPU Time: 3 / All Time: 4 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+60:
+running:
+PCB12 - Priority: 3 - CPU Time: 4 / All Time: 4 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 6 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+61:
+running:
+PCB6 - Priority: 2 - CPU Time: 7 / All Time: 14 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+62:
+running:
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 2 / All Time: 12 - State: READY - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+63:
+running:
+PCB14 - Priority: 7 - CPU Time: 3 / All Time: 12 - State: RUNNING - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+64:
+running:
+PCB14 - Priority: 7 - CPU Time: 4 / All Time: 12 - State: RUNNING - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: BLOCKED - Blocked to Ready Time: 0 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 0 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+65:
+running:
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB10 - Priority: 1 - CPU Time: 2 / All Time: 3 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: -1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+66:
+running:
+PCB10 - Priority: 1 - CPU Time: 3 / All Time: 3 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB5 - Priority: 6 - CPU Time: 5 / All Time: 6 - State: READY - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+67:
+running:
+PCB5 - Priority: 6 - CPU Time: 6 / All Time: 6 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB9 - Priority: 8 - CPU Time: 6 / All Time: 7 - State: READY - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+68:
+running:
+PCB9 - Priority: 8 - CPU Time: 7 / All Time: 7 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB1 - Priority: 3 - CPU Time: 8 / All Time: 10 - State: READY - Running to Blocked Time: 6 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+69:
+running:
+PCB1 - Priority: 3 - CPU Time: 9 / All Time: 10 - State: RUNNING - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+70:
+running:
+PCB1 - Priority: 3 - CPU Time: 10 / All Time: 10 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB13 - Priority: 6 - CPU Time: 4 / All Time: 5 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+71:
+running:
+PCB13 - Priority: 6 - CPU Time: 5 / All Time: 5 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB11 - Priority: 3 - CPU Time: 6 / All Time: 8 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+72:
+running:
+PCB11 - Priority: 3 - CPU Time: 7 / All Time: 8 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+73:
+running:
+PCB11 - Priority: 3 - CPU Time: 8 / All Time: 8 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 5 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+74:
+running:
+PCB14 - Priority: 7 - CPU Time: 6 / All Time: 12 - State: RUNNING - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+75:
+running:
+PCB14 - Priority: 7 - CPU Time: 7 / All Time: 12 - State: RUNNING - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+76:
+running:
+PCB14 - Priority: 7 - CPU Time: 8 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB2 - Priority: 2 - CPU Time: 5 / All Time: 8 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 8 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+77:
+running:
+PCB2 - Priority: 2 - CPU Time: 6 / All Time: 8 - State: RUNNING - Running to Blocked Time: 8 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 8 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+78:
+running:
+PCB2 - Priority: 2 - CPU Time: 7 / All Time: 8 - State: RUNNING - Running to Blocked Time: 7 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 8 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+79:
+running:
+PCB2 - Priority: 2 - CPU Time: 8 / All Time: 8 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 3 / Time Slice(RR): 3
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 8 / All Time: 14 - State: READY - Running to Blocked Time: 3 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 8 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+80:
+running:
+PCB6 - Priority: 2 - CPU Time: 9 / All Time: 14 - State: RUNNING - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 8 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+81:
+running:
+PCB6 - Priority: 2 - CPU Time: 10 / All Time: 14 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 8 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+82:
+running:
+PCB6 - Priority: 2 - CPU Time: 11 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 8 / All Time: 12 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 11 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+83:
+running:
+PCB14 - Priority: 7 - CPU Time: 9 / All Time: 12 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 11 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+84:
+running:
+PCB14 - Priority: 7 - CPU Time: 10 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 11 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+PCB14 - Priority: 7 - CPU Time: 10 / All Time: 12 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+85:
+running:
+None
+
+ready queue:
+PCB14 - Priority: 7 - CPU Time: 10 / All Time: 12 - State: READY - Running to Blocked Time: 5 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 11 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+86:
+running:
+PCB14 - Priority: 7 - CPU Time: 11 / All Time: 12 - State: RUNNING - Running to Blocked Time: 4 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 11 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+87:
+running:
+PCB14 - Priority: 7 - CPU Time: 12 / All Time: 12 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 2 / Time Slice(RR): 3
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 11 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+88:
+running:
+None
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 11 / All Time: 14 - State: READY - Running to Blocked Time: 2 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+89:
+running:
+PCB6 - Priority: 2 - CPU Time: 12 / All Time: 14 - State: RUNNING - Running to Blocked Time: 1 - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+Empty
+
+blocked queue:
+Empty
+
+
+90:
+running:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 10 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 10 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+91:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 9 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+92:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 8 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+93:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 7 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+94:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 6 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+95:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 5 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+96:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 4 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+97:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 3 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+98:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 2 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+99:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: BLOCKED - Blocked to Ready Time: 1 - Wait Time(HRRN): 0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+
+100:
+running:
+None
+
+ready queue:
+PCB6 - Priority: 2 - CPU Time: 13 / All Time: 14 - State: READY - Running to Blocked Time: 9 - Wait Time(HRRN):0 - Used Slice(RR): 0 / Time Slice(RR): 3
+
+blocked queue:
+Empty
+
+
+101:
+running:
+PCB6 - Priority: 2 - CPU Time: 14 / All Time: 14 - State: FINISHED - Wait Time(HRRN):0 - Used Slice(RR): 1 / Time Slice(RR): 3
+
+ready queue:
+Empty
+
+blocked queue:
+Empty
+
+
+102:
+running:
+None
+
+ready queue:
+Empty
+
+blocked queue:
+Empty
+
+
